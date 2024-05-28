@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|c:\\users\\dell\\source\\repos\\demoecommerce\\demoecommerce\\basepage\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|solutionrelative:demoecommerce\\basepage\\baseclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|c:\\users\\dell\\source\\repos\\demoecommerce\\demoecommerce\\tests\\registertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|solutionrelative:demoecommerce\\tests\\registertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|c:\\users\\dell\\source\\repos\\demoecommerce\\demoecommerce\\webdriverextension\\webdriverextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|solutionrelative:demoecommerce\\webdriverextension\\webdriverextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|c:\\users\\dell\\source\\repos\\demoecommerce\\demoecommerce\\pages\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|solutionrelative:demoecommerce\\pages\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|c:\\users\\dell\\source\\repos\\demoecommerce\\demoecommerce\\utilities\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|solutionrelative:demoecommerce\\utilities\\extentreportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|c:\\users\\dell\\source\\repos\\demoecommerce\\demoecommerce\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|solutionrelative:demoecommerce\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|c:\\users\\dell\\source\\repos\\demoecommerce\\demoecommerce\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|solutionrelative:demoecommerce\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|c:\\users\\dell\\source\\repos\\demoecommerce\\demoecommerce\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059E229C-5FF0-49B2-8343-477A7E1B6C40}|DemoEcommerce\\DemoEcommerce.csproj|solutionrelative:demoecommerce\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebdriverExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\WebdriverExtension\\WebdriverExtension.cs",
+              "RelativeDocumentMoniker": "DemoEcommerce\\WebdriverExtension\\WebdriverExtension.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\WebdriverExtension\\WebdriverExtension.cs",
+              "RelativeToolTip": "DemoEcommerce\\WebdriverExtension\\WebdriverExtension.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADgvzMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T20:06:16.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseClass.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\BasePage\\BaseClass.cs",
+              "RelativeDocumentMoniker": "DemoEcommerce\\BasePage\\BaseClass.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\BasePage\\BaseClass.cs",
+              "RelativeToolTip": "DemoEcommerce\\BasePage\\BaseClass.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAArwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:37:43.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterTest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\Tests\\RegisterTest.cs",
+              "RelativeDocumentMoniker": "DemoEcommerce\\Tests\\RegisterTest.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\Tests\\RegisterTest.cs",
+              "RelativeToolTip": "DemoEcommerce\\Tests\\RegisterTest.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwB0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:34:07.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterPage.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\Pages\\RegisterPage.cs",
+              "RelativeDocumentMoniker": "DemoEcommerce\\Pages\\RegisterPage.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\Pages\\RegisterPage.cs",
+              "RelativeToolTip": "DemoEcommerce\\Pages\\RegisterPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:35:23.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExtentReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\Utilities\\ExtentReportManager.cs",
+              "RelativeDocumentMoniker": "DemoEcommerce\\Utilities\\ExtentReportManager.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\Utilities\\ExtentReportManager.cs",
+              "RelativeToolTip": "DemoEcommerce\\Utilities\\ExtentReportManager.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:09:40.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\Pages\\HomePage.cs",
+              "RelativeDocumentMoniker": "DemoEcommerce\\Pages\\HomePage.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\Pages\\HomePage.cs",
+              "RelativeToolTip": "DemoEcommerce\\Pages\\HomePage.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:34:52.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\Tests\\LoginTest.cs",
+              "RelativeDocumentMoniker": "DemoEcommerce\\Tests\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\Tests\\LoginTest.cs",
+              "RelativeToolTip": "DemoEcommerce\\Tests\\LoginTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T19:25:06.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "DemoEcommerce\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\DemoEcommerce\\DemoEcommerce\\UnitTest1.cs",
+              "RelativeToolTip": "DemoEcommerce\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T18:56:58.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
